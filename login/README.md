@@ -1,1 +1,1 @@
-Images for displaymanager
+# Display manager wallpapers

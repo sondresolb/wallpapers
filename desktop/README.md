@@ -1,1 +1,1 @@
-# Wallpapers for the OS desktop
+# Desktop wallpapers
